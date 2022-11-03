@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "cédula atrás.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
